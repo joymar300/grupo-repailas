@@ -1,0 +1,27 @@
+#con{
+    margin-top: 10px;
+
+}
+#derecha{
+    display: flex;
+    justify-content: space-around;  
+}
+
+.titulo1{
+    text-align: center;
+}
+footer{
+    padding-top: 10px;
+    text-align: center;
+    background-color: orange;
+    
+}
+
+.banner-image{
+    background-image: url('https://www.semana.com/resizer/X8GPE4mMQ3NVxwtEPhE9Au8NGRs=/1200x675/filters:format(jpg):quality(50)//cloudfront-us-east-1.images.arcpublishing.com/semana/M37ITBTWYZHAXPOJLHENQIW2AU.jpg');
+    background-size: cover;
+}
+
+h1{
+	color: black;
+}
